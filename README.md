@@ -1,4 +1,5 @@
-# FoodRescue_Bot
+# FoodRescue_Bot 
+Telegram Handle: @foodrescue_bot
 
 # User Guide
 ## About FoodRescue_Bot
