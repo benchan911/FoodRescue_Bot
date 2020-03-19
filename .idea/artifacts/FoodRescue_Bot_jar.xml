@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FoodRescue_Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FoodRescue_Bot_jar</output-path>
+    <root id="archive" name="FoodRescue_Bot.jar">
+      <element id="module-output" name="FoodRescue_Bot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../telegrambots-2.4.4.5-jar-with-dependencies (1).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
