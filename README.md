@@ -11,8 +11,6 @@ It is all about Rescuing food before it becomes waste.
 1. Navigate to the folder in your Command Prompt (Windows) or Terminal (MacOS & Linux).
 1. Type `java -jar FoodRescue_Bot.jar` to start the app.
 
-Refer to the next section [Features](#features) for details of each command.
-
 
 ## Shortcut commands 
 
